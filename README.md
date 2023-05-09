@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update Discord and Contributing Guide URLs (#9270)
