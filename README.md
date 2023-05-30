@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add Neural Magic Docs integrations page (#7234)
