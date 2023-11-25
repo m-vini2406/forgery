@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Docs updates and improvements (#8183)
