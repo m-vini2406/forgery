@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+More robust PNNX downloads (#8866)
