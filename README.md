@@ -1,1 +1,1 @@
-added badges (#45)
+Clean up unused imgsz (#7771)
