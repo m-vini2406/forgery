@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
